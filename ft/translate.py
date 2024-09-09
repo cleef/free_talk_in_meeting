@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-kimi = 'sk-cxHCvzj9u9i3Nxka80b7k6cBcgXLD48ZTv39HvLEvYO4NnNs'
+kimi = 'sk-your key'
 from openai import OpenAI
 
 client = OpenAI(api_key=kimi, base_url="https://api.moonshot.cn/v1")
